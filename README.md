@@ -1,6 +1,6 @@
 # LipNet-app
 
-![GIF](https://github.com/Daremitsu1/LipNet-app/blob/master/app/animation.gif)
+![image](https://user-images.githubusercontent.com/54842807/221889920-ad6f6713-facf-47a6-b0c6-d82868bac2bc.png)
 
 ## Folder Directory
 
